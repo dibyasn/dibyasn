@@ -24,9 +24,9 @@ I am a passionate electronics and embedded systems engineer with hands-on experi
 
 ### 🖥️ Software Proficiency
 - **E-CAD Designing:** Skilled in Proteus for circuit design and simulation.
-- **3D CAD Modeling:** Experienced with CREO Parametric, SolidWorks, and AutoCAD.
+- **3D CAD Modeling:** Experienced with Fusion 360, CREO Parametric, SolidWorks, and AutoCAD.
 - **Simulation Software:** Familiar with CNC simulation, FluidSIM-P, FluidSIM-H, and TIA Portal.
-- **Basic Programming:** Competent in MS-Office suite, including Power BI for data visualization.
+- **MS Office:** MS Excel, MS Word, MS PowerPoint  including Power BI for data visualization.
 
 ## 🌱 Career Journey
 
@@ -50,12 +50,12 @@ I am a passionate electronics and embedded systems engineer with hands-on experi
 <div align="center">
   <a href="https://github.com/dibyasn" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/dibyasn/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-  </a>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>
+  </a>    
   <a href="https://www.instagram.com/dibya.sn/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' alt='instagram' height='40'>
   </a>
 </div>
 
