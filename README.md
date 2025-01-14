@@ -54,7 +54,7 @@ I am a passionate electronics and embedded systems engineer with hands-on experi
   <a href="https://www.linkedin.com/in/dibyasn/" target="_blank">
     <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>
   </a>    
-  <a href="https://www.instagram.com/dibya.sn/" target="_blank">
+  <a href="https://www.instagram.com/iamuser_d/" target="_blank">
     <img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' alt='instagram' height='40'>
   </a>
 </div>
