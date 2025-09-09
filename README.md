@@ -30,10 +30,6 @@ I am a passionate electronics and embedded systems engineer with hands-on experi
 
 ## 🌱 Career Journey
 
-- **Project Engineer at Wizklub Learning Pvt. Ltd.** (March 2022 - Present)
-  - Lead the design and development of new tech-driven educational products.
-  - Managed mechanical assembly and electronic hardware integration for various projects.
-
 - **Operating Engineering Trainee at Dana Anand India Pvt. Ltd.** (August 2020 - August 2021)
   - Ensured zero incidents in the production cell and maintained a strong safety culture.
   - Implemented Kaizen for continuous improvement and handled customer audits.
